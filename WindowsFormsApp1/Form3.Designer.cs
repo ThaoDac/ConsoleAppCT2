@@ -77,7 +77,7 @@
             this.tb_sdt.Location = new System.Drawing.Point(186, 146);
             this.tb_sdt.Name = "tb_sdt";
             this.tb_sdt.Size = new System.Drawing.Size(338, 26);
-            this.tb_sdt.TabIndex = 1;
+            this.tb_sdt.TabIndex = 2;
             this.tb_sdt.TextChanged += new System.EventHandler(this.tb_hoten_TextChanged);
             // 
             // btn_reset
